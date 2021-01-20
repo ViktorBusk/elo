@@ -21,7 +21,7 @@ K_FACTOR = 32 # The K-factor measures how strong a match will impact the players
 LOSS = 0.0
 TIE = 0.5
 WON = 1.0
-#----------------------------------------------------
+#---------------------------------------------------------------------
 
 def R(r):
     '''
