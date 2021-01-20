@@ -1,6 +1,6 @@
 ## Easily rank players with the Elo-rating system in Python!
 
-# Example usage:
+### Example usage:
 ```python
 import elo
 r1 = 2400 # Player r1 with rating 2400
